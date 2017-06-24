@@ -1,4 +1,12 @@
-pillow
-django-resized
-django-allauth
-
+Django==1.10.5
+django-allauth==0.30.0
+django-classy-tags==0.8.0
+django-resized==0.3.5
+image==1.5.5
+oauthlib==2.0.1
+olefile==0.44
+Pillow==4.1.1
+python-openid==2.2.5
+requests==2.13.0
+requests-oauthlib==0.7.0
+virtualenv==15.1.0

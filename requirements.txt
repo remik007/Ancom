@@ -1,0 +1,4 @@
+pillow
+django-resized
+allauth
+PIL
